@@ -2,7 +2,7 @@
 <ul>
   <li>🎓 Estudiante de Licenciatura en Informática en la Universidad Nacional de Quilmes (2º año), con experiencia en tecnología, contenidos digitales y calidad de software.</li>
   <li>💻 Trabajé en empresas como Wunderman Thompson y Globant, en roles de Frontend Developer, Data Entry y QA Tester.</li>
-  <li>🔧 Manejo herramientas como Adobe Experience Manager, Adobe Digital Assets Manager, CRXDE Lite, JIRA, y lenguajes como HTML, CSS y JavaScript.</li>
+  <li>🔧 Manejo herramientas como Adobe Experience Manager, Adobe Digital Assets Manager, CRXDE Lite, Git, y lenguajes como HTML, CSS y JavaScript.</li>
   <li>🚀 Busco oportunidades para seguir creciendo en el área de Software QA, Data Entry y Desarrollo Frontend.</li>
 </ul>
 

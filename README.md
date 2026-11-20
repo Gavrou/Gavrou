@@ -1,26 +1,35 @@
-<h1 align="left">Sobre mí</h1>
-<ul>
-  <li>🎓 Estudiante de Licenciatura en Informática en la Universidad Nacional de Quilmes (2º año), con experiencia en tecnología, contenidos digitales y calidad de software.</li>
-  <li>💻 Trabajé en empresas como Wunderman Thompson y Globant, en roles de Frontend Developer, Data Entry y QA Tester.</li>
-  <li>🔧 Manejo herramientas como Adobe Experience Manager, Adobe Digital Assets Manager, CRXDE Lite, Git, y lenguajes como HTML, CSS y JavaScript.</li>
-  <li>🚀 Busco oportunidades para seguir creciendo en el área de Software QA, Data Entry y Desarrollo Frontend.</li>
-</ul>
+# Hi there, I'm Jonathan Ilardi 👋
 
-<h3 align="left">Contacto:</h3>
-  <p align="left">
-    <a href="https://linkedin.com/in/jonilardi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jonilardi" height="20" width="20" />
-    </a>
-  </p>
-    
-<h3 align="left">Lenguajes y herramientas que conozco:</h3>
- <ul>
-   <li>HTML</li>
-   <li>CSS</li>
-   <li>JavaScript</li>
-   <li>Python</li>
-   <li>Adobe Experience Manager</li>
-   <li>Adobe Digital Assets Manager</li>
-   <li>CRXDE Lite</li>
-   <li>Git</li>
-   <li>Microsoft Office</li>
- </ul>
+### Data Analyst | SQL • Python • Power BI | Computer Science Student (UNQ)
+
+I am a Data Analyst in training (Talento Tech - GCBA) and Computer Science undergraduate with **6+ years of experience** in global digital environments, structured data management, quality assurance (QA), and CRM operations (Salesforce) for international brands like **Ford Motor Company**, **Unilever**, and **Electronic Arts**.
+
+My background in technical troubleshooting and web platforms allows me to bridge the gap between raw technical data and clear, actionable business decisions.
+
+---
+
+### 🛠️ Tech Stack & Tools
+* **Data Analysis & Databases:** SQL (SQLite, PostgreSQL), Python (Pandas, NumPy), Excel
+* **Data Visualization:** Power BI (DAX, Data Modeling, Executive Dashboards)
+* **CRM & Workflow:** Salesforce CRM, Jira, Confluence, Adobe Experience Manager (AEM)
+* **Development & Version Control:** Git, Bitbucket, JavaScript, HTML, CSS
+* **Languages:** Spanish (Native) | English [(C1 Advanced - EF SET Certified)](https://cert.efset.org/en/VhVhoD)
+
+---
+
+### 📊 Featured Data Analytics Projects
+
+#### 1. [Telco Customer Churn & Technical Support Analysis](https://github.com/Gavrou/customer-churn-analysis)
+* **Stack:** `Python (Pandas)` • `SQL` • `Power BI`
+* **Summary:** End-to-end analysis of 7,043 telecom customers to identify key drivers of service cancellation. Uncovered that early-tenure Fiber Optic subscribers without Technical Support experience a **~50% churn rate**, leading to targeted onboarding support recommendations.
+
+#### 2. [North American Electric Vehicle (EV) Market & Catalog QA Analysis](https://github.com/Gavrou/automotive-catalog-qa-analysis)
+* **Stack:** `Python (Pandas)` • `SQL (CTEs & Window Functions)` • `Power BI`
+* **Summary:** Performed a Data Quality Assurance audit, schema normalization, and market benchmark analysis on North American EV specifications, evaluating driving range evolution, energy efficiency, and brand performance.
+
+---
+
+### 📫 Let's connect!
+* **LinkedIn:** [Jon Ilardi](https://www.linkedin.com/in/jonilardi/)
+* **Email:** jon.ilardi.22@gmail.com
+* **Location:** Buenos Aires, Argentina (Open to local & remote opportunities)

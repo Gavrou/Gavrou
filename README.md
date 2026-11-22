@@ -27,6 +27,10 @@ My background in technical troubleshooting and web platforms allows me to bridge
 * **Stack:** `Python (Pandas)` • `SQL (CTEs & Window Functions)` • `Power BI`
 * **Summary:** Performed a Data Quality Assurance audit, schema normalization, and market benchmark analysis on North American EV specifications, evaluating driving range evolution, energy efficiency, and brand performance.
 
+#### 3. [E-Commerce Relational ETL & Customer Satisfaction Analysis (Olist)](https://github.com)
+* **Stack:** `Python (Pandas)` • `SQL (Multi-Table JOINs)` • `Power BI (Star Schema & DAX)`
+* **Summary:** Built a multi-table ETL pipeline, referential integrity audit, and Star Schema data model across **~100,000 e-commerce orders** (5 relational tables). Uncovered that delivery delays cause customer satisfaction ratings to drop by **2.02 stars** (from 4.29 to 2.27), isolating high-friction product categories and regional bottlenecks.
+
 ---
 
 ### 📫 Let's connect!

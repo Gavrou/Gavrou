@@ -9,7 +9,7 @@ My background in technical troubleshooting and web platforms allows me to bridge
 ---
 
 ### 🛠️ Tech Stack & Tools
-* **Data Analysis & Databases:** SQL (SQLite, PostgreSQL), Python (Pandas, NumPy), Excel
+* **Data Analysis & Databases:** SQL (SQLite, PostgreSQL), Python (Pandas, NumPy), ETL Pipelines, Excel
 * **Data Visualization:** Power BI (DAX, Data Modeling, Executive Dashboards)
 * **CRM & Workflow:** Salesforce CRM, Jira, Confluence, Adobe Experience Manager (AEM)
 * **Development & Version Control:** Git, Bitbucket, JavaScript, HTML, CSS
